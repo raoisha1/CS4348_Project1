@@ -26,3 +26,4 @@
 - All features working,  logger timestamps correct.
 - Encryption/decryption works properly.
 - Next: make the readme
+# 2025-10-19 23:32 Testing encryption and logging
