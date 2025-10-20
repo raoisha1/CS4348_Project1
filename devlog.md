@@ -14,3 +14,15 @@
 - Integrated all core Python files successfully.
 - Verified structure works on macOS and will be compatible with cs1/cs2 systems.
 - Next step: add README instructions and finalize testing before pushing full repo.
+
+# $(date '+%Y-%m-%d %H:%M') Testing encryption and logging
+## Thoughts so far
+- Project structure complete, check pipes and functionality.
+
+## Plan
+-test password, encrypt, decrypt, history, monitor.
+
+## Reflection
+- All features working,  logger timestamps correct.
+- Encryption/decryption works properly.
+- Next: make the readme
