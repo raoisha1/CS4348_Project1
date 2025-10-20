@@ -27,3 +27,9 @@
 - Encryption/decryption works properly.
 - Next: make the readme
 # 2025-10-19 23:32 Testing encryption and logging
+
+# $(date '+%Y-%m-%d %H:%M') Final reflection
+## Reflection
+- Verified full functionality/ testing done.
+- All commands work 
+- Project runs correctly on macOS2
